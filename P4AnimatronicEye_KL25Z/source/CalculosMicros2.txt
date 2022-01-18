@@ -1,0 +1,17 @@
+
+PeriodoReloj = 1/(FrecuenciaCLK/divisor)
+(MOD+1)PeriodoReloj = Tesperado
+mod	T en alto
+60000 - 20ms
+mod - 2.29ms
+
+4.59 ms
+2.29 ms - 180°
+------------------------------------------
+mod	T en alto
+26249 - 20ms     //para reloj de 21MHz div  de 16
+mod=3005 - 2.29ms
+
+2^12bits
+4096
+
